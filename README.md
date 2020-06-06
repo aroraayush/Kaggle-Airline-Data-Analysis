@@ -56,7 +56,7 @@ Fields Preview (Auxillary Dataset):
 #### Fields Graph:
 
 The following shows the relation between columns:
-![](images/node_graph.jpg)
+![](images/kaggle-airline-data.png)
 
 ### Obtaining the Data & Preprocessing
 ---
