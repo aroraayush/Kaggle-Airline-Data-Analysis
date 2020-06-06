@@ -2,6 +2,18 @@
 
 ### Motivation:
 ---
+The global aviation industry in one of the biggest industries by revenue in 2020. According to [Forbes](https://www.forbes.com/sites/jamesasquith/2020/04/06/if-aviation-was-a-country-it-would-be-the-worlds-20th-largest-by-gdp/#75a00acde5b5), if Aviation was A country, it would have been the World’s 20th Largest By GDP. It supports $2.7 trillion in world economic activity (3.6% of global gross domestic product). It supports $2.7 trillion in world economic activity (3.6% of global gross domestic product of the world)<sup>[[1]](https://aviationbenefits.org/economic-growth/adding-value-to-the-economy/) </sup>. 
+As per [ICAO’s preliminary compilation of annual global statistics](https://www.icao.int/annual-report-2018/Pages/the-world-of-air-transport-in-2018.aspx), the total number of passengers carried on scheduled services rose to 4.3 billion in 2018, which is 6.4 per cent higher than the previous year, while the number of departures reached 37.8 million in 2018, a 3.5 per cent increase.
+
+The North America contributes 22.4 per cent of world traffic in 2018<sup>[[2]](https://aviationbenefits.org/economic-growth/adding-value-to-the-economy/) </sup>.
+Domestic aviation play an important role in the Global Aviation Revenue. 
+
+North America:​	39.9 per cent of total RPK (Revenue passenger-Kilometres), posting growth of 5.2 per cent
+ 
+### References
+ 1. $2.7 trillion in world economic activity : https://aviationbenefits.org/economic-growth/adding-value-to-the-economy/
+ 2. 22.4 per cent of world traffic was from  : https://www.icao.int/annual-report-2018/Pages/the-world-of-air-transport-in-2018.aspx
+
 While going through different datasets, I found an interesting dataset on [Kaggle](https://www.kaggle.com) that provided data points for the Delay and Cancellation of domestic American flights in the period of 2009 through 2018.
 The aviation industry is worth trillions of dollars. Any minor or major flight delay or cancellation would result in loss of thousands to millions of dollars in revenues annually for both Airports as well as Airlines. Because this dataset is very recent, one could get a real picture of the current period.
 
