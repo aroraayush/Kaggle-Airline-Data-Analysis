@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+title: Kaggle Airline Delay & Cancellation Analysis (SQL)
+description: Analysis of Domestic Airline Cancellation and Delays (2009-2018)
+description_detail: Every year Domestic US Airliness report losses of nearly $ 3-4 billion due to delays and cancellations. During Covid 19, airlines report loss of <a href="https://www.cnn.com/2020/03/05/business/airlines-coronavirus-iata-travel/index.html" target="_blank">$113 billion</a> due to cancellations. This report is an analysis of these delays and cancellations and the resons behind it, before the Covid 19 period.
+
+navigation:
+  - title: Home
+    url: /
+  - title: Motivation
+    url: motivation
+  - title: About the Data
+    url: about
+  - title: Obtaining Data
+    url: obtaining
+  - title: Software Requirements
+    url: requirements
+  - title: Analysis with SQL
+    url: analysis
+  - title: Summary
+    url: summary
+  - title: Glossary
+    url: glossary
+  - title: References
+    url: references
